@@ -28,3 +28,8 @@ This mod requires BepInEx to work, it's a modding framework that allows multiple
    </Project>
    ```
 3. Compile the project. This copies the resulting dll into the `MOD_DEPLOYPATH`, if set
+
+## Changelog
+
+0.1.0
+- Release
